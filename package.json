@@ -1,0 +1,14 @@
+{
+  "name": "jason-learnyounode",
+  "version": "1.0.0",
+  "description": "jason learns node",
+  "main": "01-hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "through2-map": "^2.0.0"
+  }
+}
